@@ -93,8 +93,6 @@ body {
   font-weight: normal;
   line-height: 1.5;
   color: #212529;
-  background-color: #f3f3f3;
-    max-width: 1200px;
 }
 
 [tabindex="-1"]:focus {
